@@ -1,3 +1,5 @@
+[English](README.md) | **Français** | [Português](README.pt-BR.md)
+
 # Bonjour, je suis Fernando 👋
 
 Je suis **conseiller en architecture infonuagique** au Québec, avec une expérience en architecture organique, en développement Java d'entreprise et en DevOps.
