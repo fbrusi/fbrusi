@@ -1,3 +1,5 @@
+[English](README.md) | [Français](README.fr.md) | **Português**
+
 # Olá, eu sou o Fernando 👋
 
 Sou **arquiteto de soluções em nuvem**, baseado no Québec, Canadá, com experiência em arquitetura de software, desenvolvimento Java corporativo e DevOps.
