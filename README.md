@@ -1,3 +1,5 @@
+**English** | [Français](README.fr.md) | [Português](README.pt-BR.md)
+
 # Hello, I'm Fernando 👋
 
 I'm a **Cloud Architect** based in Québec, Canada, with a background in software architecture, Java enterprise development, and DevOps.
